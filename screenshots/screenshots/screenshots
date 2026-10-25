@@ -1,0 +1,10 @@
+
+# Project Screenshots
+
+This folder contains screenshots of the AWS Three-Tier Store project.
+
+- VPC and Subnets
+- Application Load Balancer
+- EC2 App Server
+- Amazon RDS Database
+- Working Store and Checkout
